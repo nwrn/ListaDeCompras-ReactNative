@@ -10,6 +10,9 @@ Componentes React Native utilizados:
  - TouchbleOpacity
  - FlatList
  
+ Demonstração em GIF:
+ ![image](https://imgur.com/VognnNW)
+ 
  Esse projeto foi feito com base no curso da Alura "React Native: Criando um App".
  Certificado do curso:
  ![image](https://i.imgur.com/iBnaftY.png)
