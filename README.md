@@ -11,7 +11,7 @@ Componentes React Native utilizados:
  - FlatList
  
  Demonstração em GIF:
- ![image](https://imgur.com/VognnNW)
+ ![image](https://i.imgur.com/VognnNW.gif)
  
  Esse projeto foi feito com base no curso da Alura "React Native: Criando um App".
  Certificado do curso:
